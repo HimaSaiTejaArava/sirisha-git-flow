@@ -13,4 +13,6 @@ Master - 3 featuer
      git pull 3
      git checkout -b 3.2 - push and merge 3
     push again 3 and merge
+
+I created at 16:45 and doing something;
     
