@@ -14,3 +14,4 @@ Master - 3 featuer
      git checkout -b 3.2 - push and merge 3
     push again 3 and merge
     
+Boom - I am merged
