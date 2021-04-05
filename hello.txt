@@ -3,3 +3,14 @@ Hello World;
 I am adding a new line; but I am in the boom branch;
 
 I am boom1
+
+Master - 3 featuer
+    1feature - pushed - merged
+    git pull 
+    2ft - " - "
+    3ft - push; 
+     git checout -b "3.1" - push and merge 3
+     git pull 3
+     git checkout -b 3.2 - push and merge 3
+    push again 3 and merge
+    
